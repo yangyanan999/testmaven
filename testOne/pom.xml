@@ -35,7 +35,7 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <configuration>
             <suiteXmlFiles>
-                <suiteXmlFile>src/test/java/testng.xml</suiteXmlFile>
+                <suiteXmlFile>testng.xml</suiteXmlFile>
             </suiteXmlFiles>
         </configuration>
         <version>2.19.1</version>
